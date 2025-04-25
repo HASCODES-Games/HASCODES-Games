@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HASCODES-Games
 - 👀 I’m interested in making small indie games, python programs, and more.
-- 🌱 I’m currently learning C++ and Python.
+- 🌱 I’m currently learning OpenGL
 - 💞️ I’m looking to collaborate on a fun survival horror mashup.
 - 📫 I'd rather not recieve much emails currently.
 - 😄 Pronouns: He, him
